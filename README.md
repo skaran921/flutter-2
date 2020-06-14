@@ -1,29 +1,16 @@
-# Flutter Development
+# tradewinds
 
-This repository should only be used to submit materials realated to your project like codes, reports, project ideas etc under the Uplift Project.
+The Flutter project devloping under The Uplift Project
 
-## Submission Procedure
+## Getting Started
 
-Read the following steps and guidelines properly for proper submission of your project. Missing out any step or performing it wrongly can lead to unsuccessful submission.
+This project is a starting point for a Flutter application.
 
-# Steps
+A few resources to get you started if this is your first Flutter project:
 
-1. Fork this repository to your profile.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-2. Clone the repository.
-
-2. Change to your team branch by typing `git checkout <teamname>`
-
-3. Make the changes and commit to the same branch and push it.
-
-4. Create a pull request from `<username>/<teamname>` to `The-Uplift-Project/<teamname>`
-
-## NOTE
-
-DO NOT COMMIT TO THE `master` branch. Only commit to your team branch.
-
-### Each branch will contain
-
--   A text file that contains proper documentation. The documentation should contain:
-    -   A description of your project.
-    -   The contents of your project directory.
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

@@ -9,7 +9,7 @@ Mentors:
 -   Mohit Jangra - mohitjangra6017@gmail.com (Flutter)
 
 Participants:
--   Kooldeep Srivastav - kuldeepsrivastav007@gmail.com 
+-   Kuldeep Srivastav - kuldeepsrivastav007@gmail.com 
 -   Kriti - kriti9503@gmail.com
 -   Mohit(P) - mohitkrtoshniwal@gmail.com
 -   Monikinderjit Singh(P) - monikinderjitsingh5@gmail.com

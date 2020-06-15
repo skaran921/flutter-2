@@ -1,0 +1,23 @@
+{
+    "name": "cleanup",
+    "short_name": "cleanup",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "An Waste Management Application. This Application allows an individual to report about the waste present in their area on the application and it will send notification to nearby NGO through which they could accept the norification and they would go to the place and help them clean.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

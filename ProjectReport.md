@@ -24,7 +24,7 @@ Moderator:
 -   Gautam Singh(MD) - gsrlv1999@gmail.com
 
 Project Domain - Energy & Sustainability
-Project Name - Mission Clean
+Project Name - CleanUp
 Description - An Waste Management Application. This Application allows an individual to report about the waste present in their area on the application and it will send notification to nearby NGO through which they could accept the norification and they would go to the place and help them clean.
 
 Deadlines:

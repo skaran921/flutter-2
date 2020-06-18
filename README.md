@@ -7,8 +7,8 @@
 Mentors:
 -   Karan Soni - skaran921@gmail.com (Flutter)
 
-Participants:
--   Deep Dhar(P) - dhar2017.slg@gmail.com 
+# Participants:
+```-   Deep Dhar(P) - dhar2017.slg@gmail.com 
 -   Devansh Rathour(P) - devanshrathour80@gmail.com
 -   Fariyal Ajrad (P) - ajradfariyal@gmail.com
 -   Harshit Verma(P) - iamharshitverma114@gmail.com
@@ -20,7 +20,7 @@ Participants:
 -   Jinath yasmin laskar - jinathyasmin456@gmail.com
 -   Kanak Agrawal (P) - kanakagrawal600@gmail.com
 -   Sumrah(P) - fatima14sumrah@gmail.com
-
+```
 Moderator:
 -   NAVIN GANESH PANDIYAN R K(MD) - ganesspandian2@gmail.com
 

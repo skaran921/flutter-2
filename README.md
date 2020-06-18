@@ -24,9 +24,9 @@ Participants:
 Moderator:
 -   NAVIN GANESH PANDIYAN R K(MD) - ganesspandian2@gmail.com
 
- #Project Domain -   Energy and Sustainability  <br/>
-Project Name - 
-Description - 
+ # Project Domain -   Energy and Sustainability  <br/>
+      Project Name - 
+      Description - 
 
 Deadlines:
 * Month 1:

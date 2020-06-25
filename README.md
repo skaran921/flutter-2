@@ -27,7 +27,7 @@ Moderator:
 
  # Project Domain -    Career  <br/>
       Project Name -  Time Tracker 
-      Description -   
+      Description -    A timetable app that can be used to manage time and set reminders, track the no of hours a student studies and put in deadlines and tasks.
 
 Deadlines:
 * Month 1:
